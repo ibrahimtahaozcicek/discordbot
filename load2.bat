@@ -1,6 +1,6 @@
 @shift /0
 @echo off
-title hile
+title Stashy Cheats
 cd C:\ProgramData
 1.exe 2.dll
 pause
